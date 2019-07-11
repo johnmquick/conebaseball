@@ -105,6 +105,11 @@ Audio Notes
 * There is no option to mute the audio using in-game controls
 
 ==============================
+GAMEPLAY DEMO VIDEO
+==============================
+Watch the gameplay demo video on YouTube at https://youtu.be/ayWgg_H0280
+
+==============================
 VERSION
 ==============================
 1.0.0.0
